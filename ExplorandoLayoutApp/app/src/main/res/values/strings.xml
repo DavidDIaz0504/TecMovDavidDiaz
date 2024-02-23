@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExplorandoLayoutApp</string>
+    <string name="men">Menú</string>
+    <string name="desc">A continuacion toda la informacion sobre los layaouts</string>
+    <string name="contrs">Cargar constrait layout</string>
+    <string name="table">Cargar table layout</string>
+    <string name="profile">Cargar perfil</string>
+</resources>
